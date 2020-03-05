@@ -21,5 +21,12 @@
         "sass-loader": "7.*",
         "vue": "^2.5.17",
         "vue-template-compiler": "^2.6.10"
+    },
+    "dependencies": {
+        "@tailwindcss/ui": "^0.1.3",
+        "apollo-boost": "^0.4.7",
+        "graphql": "^14.6.0",
+        "tailwindcss": "^1.2.0",
+        "vue-apollo": "^3.0.3"
     }
 }
